@@ -1,1 +1,1 @@
-* [Numpy基础](1_numpy.ipynb)
+* [Numpy基础](1_numpy.md)
